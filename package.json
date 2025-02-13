@@ -4,8 +4,10 @@
   "description": "Programa com uso de Orientação a Objetos",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "jest"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GTS3636/versionamento03.git"
